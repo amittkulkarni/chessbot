@@ -1,0 +1,6 @@
+python-chess==1.999
+onnxruntime-openvino==1.23.0
+torch>=2.0.0
+numpy>=1.21.6
+requests>=2.25.1
+python-dotenv>=1.0.0
